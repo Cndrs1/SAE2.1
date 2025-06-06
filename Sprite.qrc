@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/Item">
+        <file>Hearth.png</file>
+        <file>Key1.png</file>
+        <file>Stairs.png</file>
+        <file>Sword.png</file>
+    </qresource>
+    <qresource prefix="/Player">
+        <file>PlayerDown.png</file>
+        <file>PlayerLeft.png</file>
+        <file>PlayerRight.png</file>
+        <file>PlayerUp.png</file>
+        <file>SwordDown.png</file>
+        <file>SwordLeft.png</file>
+        <file>SwordRight.png</file>
+        <file>SwordUp.png</file>
+        <file>PlayerSwordDownV2.png</file>
+        <file>PlayerSwordLeftV2.png</file>
+        <file>PlayerSwordRightV2.png</file>
+        <file>PlayerSwordUpV2.png</file>
+    </qresource>
+    <qresource prefix="/Tiles">
+        <file>Door1.png</file>
+        <file>Floor.png</file>
+        <file>Magma.png</file>
+        <file>Room.png</file>
+        <file>Stairs.png</file>
+        <file>Void.png</file>
+        <file>Wall.png</file>
+    </qresource>
+    <qresource prefix="/Enemy">
+        <file>BossBody.png</file>
+        <file>BossHead.png</file>
+        <file>BossTail.png</file>
+        <file>Orc.png</file>
+    </qresource>
+    <qresource prefix="/Menu">
+        <file>Story screen.png</file>
+        <file>menu.png</file>
+        <file>HudBack.png</file>
+    </qresource>
+</RCC>

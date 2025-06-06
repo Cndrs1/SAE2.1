@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Map">
+        <file>Donjon1.json</file>
+        <file>Donjon3.json</file>
+    </qresource>
+</RCC>

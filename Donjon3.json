@@ -1,0 +1,36 @@
+[
+    {
+      "room_id": "3 1",
+      "room": [
+        ["wall", "wall", "wall", "wall", "wall", "wall", "door110B", "wall", "wall", "wall", "wall", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "void", "sword", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "magma", "magma", "magma", "wall", "floor", "floor", "wall", "magma", "magma", "magma", "wall"],
+        ["wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall"]
+      ]
+    },
+    {
+      "room_id": "3 2",
+      "room": [
+        ["wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall"],
+        ["wall", "magma", "magma", "floor", "floor", "floor", "floor", "floor", "floor", "magma", "magma", "wall"],
+        ["wall", "magma", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "magma", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "wall"],
+        ["wall", "magma", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "floor", "magma", "wall"],
+        ["wall", "magma", "magma", "floor", "floor", "floor", "floor", "floor", "floor", "magma", "magma", "wall"],
+        ["wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall", "wall"]
+      ]
+    }
+]
